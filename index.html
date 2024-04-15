@@ -8,57 +8,29 @@
     <title>Xynocode Home!</title>
     <link href="css/nav.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google+Sans:100,300,400,500,700,900,100i,300i,400i,500i,700i,900i">
+    <link href="https://fonts.cdnfonts.com/css/google-sans?styles=20575,20581,20578,20576,20577,20573,20584,20582,20583,20574,20580,20579" rel="stylesheet">
     <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
 
 </head>
 <body>
-
-    <header>
-        <nav>
-            <ul class="sidebar">
-              <li onclick=hideSidebar()><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="32" viewBox="0 96 960 960" width="32"><path d="m249 849-42-42 231-231-231-231 42-42 231 231 231-231 42 42-231 231 231 231-42 42-231-231-231 231Z"/></svg></a></li>
-              <li><a href="#">Furry's Database Archive</a></li>
-              <li><a href="https://sayaaep.github.io">SayaAEP</a></li>
-              <li><a href="#">About</a></li>
-              <li><a href="#">Forum</a></li>
-              <li><a href="#">Login</a></li>
-            </ul>
-            <ul>
-              <li><a href="#">Xynocode</a></li>
-              <li class="hideOnMobile"><a href="#">Furry's Database Archive</a></li>
-              <li class="hideOnMobile"><a href="https://sayaaep.github.io">SayaAEP</a></li>
-              <li class="hideOnMobile"><a href="#">About</a></li>
-              <li class="hideOnMobile"><a href="#">Forum</a></li>
-              <li class="hideOnMobile"><a href="#">Login</a></li>
-              <li class="menu-button" onclick=showSidebar()><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="32" viewBox="0 96 960 960" width="32"><path d="M120 816v-60h720v60H120Zm0-210v-60h720v60H120Zm0-210v-60h720v60H120Z"/></svg></a></li>
-            </ul>
-          </nav>
-          <script>
-            function showSidebar(){
-              const sidebar = document.querySelector('.sidebar')
-              sidebar.style.display = 'flex'
-            }
-            function hideSidebar(){
-              const sidebar = document.querySelector('.sidebar')
-              sidebar.style.display = 'none'
-            }
-          </script>
-    </header>
-    <!--  Please remember to include the necessary script, as without it, the hamburger menu will not function properly.  -->
-
+    
+    <div id="navbar-container"></div>
+    <script src="scripts/navbar.js"></script>
+    <br>
     <zero-md class="markdown" src="https://raw.githubusercontent.com/Xynocode/Xynocode.github.io/master/hello.md">
         <template>
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@4/github-markdown.min.css"/>
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/PrismJS/prism@1/themes/prism.min.css"/>
             <style>
               .markdown-body {
-                font-family: 'Google Sans', sans-serif;
+                font-family: 'Product Sans', sans-serif;
               }
             </style>
         </template>
     </zero-md>
-    
+    <footer>
+      <p>&copy; Copyright 2024 SayaAEP - TukangM - Xynocode - OnlyAEP</p>
+    </footer>
 
 </body>
 </html>
