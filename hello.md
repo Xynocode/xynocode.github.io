@@ -27,7 +27,8 @@ puts markdown.to_html
 ```
 # testing other
 <iframe width="560" height="315" src="http://www.youtube.com/embed/NlOF03DUoWc" frameborder="0" allowfullscreen></iframe>
-
+![image](https://github.com/Xynocode/Xynocode.github.io/assets/91467886/208b73ad-1551-4770-9c27-79b87bf1636b)
+showing a image working iframe on html one. not github
 
 # testing the table https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
 |      |      |      |
