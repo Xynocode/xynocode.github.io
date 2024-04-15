@@ -10,6 +10,7 @@
 - [ ] put an hidden game?
 - [ ] add 404 page. NUH UH . NOT YET 
 - [ ] Add some kind of "fOOTER COPYRIGHT? nope not yet
+- [x] google font
 ```
 SUDO APT UPDATE
 ```
