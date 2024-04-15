@@ -27,13 +27,9 @@
  }
 
 .footer {
-    background-color: #000;
-    color: #fff;
+    color: #000000;
     text-align: center;
     padding: 20px;
-    bottom: 0;
-    position: fixed;
-    width: 100%;
 
 }
 @media (max-width: 800px) {
