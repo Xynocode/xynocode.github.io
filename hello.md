@@ -1,4 +1,4 @@
-## WEB BETA STAGE! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Pages+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+## WEB BETA STAGE! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXynocode%2FXynocode.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Pages+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 # HALOO BRUH :D
 ### this web based markdown for idk why i made this... approx time finish : 12/12/2024
 ## github markdown
