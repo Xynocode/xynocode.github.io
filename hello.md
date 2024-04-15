@@ -10,7 +10,7 @@
 - [ ] put an hidden game?
 - [ ] add 404 page. NUH UH . NOT YET 
 - [ ] Add some kind of "fOOTER COPYRIGHT? nope not yet
-- [x] google font
+- [x] google font yes but now using Product Sans https://www.cdnfonts.com/google-sans.font
 ```
 SUDO APT UPDATE
 ```
