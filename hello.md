@@ -13,6 +13,19 @@
 ```
 SUDO APT UPDATE
 ```
+# testing code block https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
+
 # testing the table https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
 |      |      |      |
 | :----: | :----: | :----: |
