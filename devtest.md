@@ -10,7 +10,7 @@
 - [x] ADD MARKDOWN support YES DONE
 - [ ] put an hidden game?
 - [ ] add 404 page. NUH UH . NOT YET 
-- [ ] Add some kind of "fOOTER COPYRIGHT? nope not yet
+- [x] Add some kind of "fOOTER COPYRIGHT? nope not yet. yes already done
 - [x] google font yes but now using Product Sans https://www.cdnfonts.com/google-sans.font
 ```
 SUDO APT UPDATE
@@ -27,7 +27,8 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 # testing other
-<iframe class="iframe-responsive" src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe>
+
+<iframe class="iframe-responsive smol" src="https://www.youtube.com/embed/WIhzBSJ1Zd0"></iframe>
 
 ![image](https://github.com/Xynocode/Xynocode.github.io/assets/91467886/208b73ad-1551-4770-9c27-79b87bf1636b)
 showing a image working iframe on html one. not github
@@ -48,10 +49,14 @@ showing a image working iframe on html one. not github
 # other than other
 iframe test 
 
-| test an iframe below | yeah |
-| --- | --- |
-| <iframe class="iframe-responsive" src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe> | furry video with iframe on html |
-| <iframe class="iframe-responsive" src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe> | furry video with iframe on html |
+| video | aboutsefadsgesgv | anothaaaaaaa |
+| --- | --- | --- |
+| <iframe class="iframe-responsive" src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe> | furry video with iframe on html ipsum ipsum lalalalalaal brurghs | rarwwww | 
+| <iframe width=192 height=108 src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe> | furry video with iframe on html meh meh meh oijihafij hiaklsh iwhidihaijnp ojihaw | sseffersfesfsrgh segrsgsrfsfsg |
 
+# tesing iframe youtube vid 
 
+| video test 4 row | aboutsefadsgesgv | anothaaaaaaa | ewe |
+| --- | --- | --- | --- |
+| <iframe class="iframe-responsive smol" src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe> | <iframe class="iframe-responsive" src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe> | <iframe class="iframe-responsive" src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe> | <iframe class="iframe-responsive" src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe> 
 

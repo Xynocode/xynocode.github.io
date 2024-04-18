@@ -13,7 +13,7 @@
       width: 90vw; /* Lebar 90% dari lebar layar */
     }
   }
-
+/* iframe non responsive outside zero-md */
 .iframe-responsive {
     width: 367px;
     height: 207px
