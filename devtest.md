@@ -58,5 +58,5 @@ iframe test
 
 | video test 4 row | aboutsefadsgesgv | anothaaaaaaa | ewe |
 | --- | --- | --- | --- |
-| <iframe class="iframe-responsive smol" src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe> | <iframe class="iframe-responsive" src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe> | <iframe class="iframe-responsive" src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe> | <iframe class="iframe-responsive" src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe> 
+| <iframe class="iframe-responsive smol" src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe> smoller with css class "smol" on 800px screen | <iframe class="iframe-responsive" src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe> | <iframe class="iframe-responsive" src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe> | <iframe class="iframe-responsive" src="https://www.youtube.com/embed/WIhzBSJ1Zd0" frameborder="0" allowfullscreen></iframe> 
 
