@@ -1,0 +1,20 @@
+.markdown-body {
+    font-family: 'Product Sans', sans-serif;
+  }
+.iframe-responsive {
+    width: 23vw;
+    height: 12vw;
+    background-color: #000000;
+}
+@media (max-width: 800px) {
+    .iframe-responsive {
+      width: 40vw;
+      height: 20vw;
+    }
+  }
+  @media (max-width: 800px) {
+    .smol {
+      width: 27vw !important;
+      height: 15vw !important;
+    }
+  }
