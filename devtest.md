@@ -76,3 +76,11 @@ iframe test
 | video test 4 row                               | aboutsefadsgesgv | anothaaaaaaa | ewe |
 | ---------------------------------------------- | ---------------- | ------------ | --- |
 |  smoller with css class "smol" on 800px screen |                  |              |     |
+
+### tesing iframe youtube vid on [xynocode.gitbook.io](https://xynocode.github.io/devtest.html)
+
+| video test 4 row                              | aboutsefadsgesgsdvsdzvsdv                                                                  | anothaaaaassgDZfdZFvzxvcaa                                                                                     | ewesrgarsg                                                                                                     |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| smoller with css class "smol" on 800px screen | [https://www.youtube.com/watch?v=WIhzBSJ1Zd0](https://www.youtube.com/watch?v=WIhzBSJ1Zd0) | \{% embed url="[https://www.youtube.com/watch?v=WIhzBSJ1Zd0](https://www.youtube.com/watch?v=WIhzBSJ1Zd0)" %\} | \{% embed url="[https://www.youtube.com/watch?v=WIhzBSJ1Zd0](https://www.youtube.com/watch?v=WIhzBSJ1Zd0)" %\} |
+
+[https://www.youtube.com/watch?v=WIhzBSJ1Zd0](https://www.youtube.com/watch?v=WIhzBSJ1Zd0)
