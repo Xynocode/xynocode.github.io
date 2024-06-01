@@ -30,6 +30,10 @@ puts markdown.to_html
 
 <iframe class="iframe-responsive smol" src="https://www.youtube.com/embed/WIhzBSJ1Zd0"></iframe>
 
+https://www.youtube.com/watch?v=WIhzBSJ1Zd0
+https://www.youtube.com/watch?v=WIhzBSJ1Zd0
+testing gitbook sync https://xynocode.gitbook.io/xynocode/
+
 ![image](https://github.com/Xynocode/Xynocode.github.io/assets/91467886/208b73ad-1551-4770-9c27-79b87bf1636b)
 showing a image working iframe on html one. not github
 
